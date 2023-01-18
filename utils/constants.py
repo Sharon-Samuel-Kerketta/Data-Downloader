@@ -1,0 +1,9 @@
+INPUT_FILE_NAME="data_file"
+
+
+CSV_OUTPUT_FILE_NAME="data.csv"
+
+
+DATA_DIRECTORY_NAME = "data"
+JSON_DATA_FOLDER = "json"
+CSV_DATA_FOLDER = "csv"
